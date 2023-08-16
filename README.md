@@ -1,4 +1,4 @@
-Greetings, Earthling! 👾 I am Sabiha Samha, an intrepid architect of the digital cosmos, fervently devoted to sculpting websites that exist on the razor's edge of perfection.
+Greetings, Earthling! 👾 I am Sabiha Samha, an intrepid architect of the digital cosmos, fervently devoted to sculpting websites that exist on the sword's edge of perfection.
 
 🌌 About Me:
 I am a self-made sentinel of the web, meticulously crafting online realms that astound and captivate. My code is my canvas, and I paint with the strokes of HTML, CSS, and JavaScript to create living, breathing masterpieces.
